@@ -1,0 +1,7 @@
+1:assets - js- modulos- ventas - en la funcion ver reporte revisar en la linea 229. 
+	esto tiene que ver con ventas en historial para ver los reportes.
+
+
+2. controllers funcion registrarVenta - linea 78 no me coge en contado para generar la venta cuadno se realiza un descuento
+
+3. controllers funcion registrarVenta -  linea 109 que me pase ese datos a las tres tablas venta credito y abono en pago
